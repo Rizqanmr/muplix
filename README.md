@@ -1,6 +1,6 @@
 # muplix
 
-The flutter project for final submission Belajar Membuat Aplikasi Flutter untuk Pemula in Dicoding Academy .
+The flutter project for final project Belajar Membuat Aplikasi Flutter untuk Pemula from Dicoding Academy .
 
 ## Getting Started
 
